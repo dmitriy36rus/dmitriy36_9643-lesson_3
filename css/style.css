@@ -1,0 +1,65 @@
+*{
+margin: 0;
+bottom:0;
+padding:0;
+}
+body{
+    background-color: rgba(62, 247, 216, 0.667);
+}
+h1,h2{
+    text-align: center;
+}
+h1{
+    color: brown;
+}
+ul{
+    list-style-image: url(../img/mark.png);
+    padding-left: 50px;
+}
+ol{
+    padding-left: 30px;
+}
+a:link, a:visited, a:active{
+    text-decoration: none;
+    color: rgb(17, 39, 235);
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
+#name{
+    font-size: 20px;
+    font-weight: bolder;
+    color:rgb(219, 25, 67);
+}
+.image2{
+    width: 800px;
+}
+.image3,
+.image4,
+.image5{
+    width: 400px;
+}
+.image6,
+.image7{
+    width: 300px;
+}
+.text1{
+    color:darkmagenta;
+    text-align: center;
+}
+.text2{
+    color: darkred;
+}
+.text3{
+    color: darksalmon;
+}
+.text4{
+    color: red;
+}
+.text5{
+    color: green;
+}
+.about{
+    text-align: right;
+}
